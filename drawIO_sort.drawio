@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T03:48:51.206Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="xuzY_R2j3k_dzKEd91fB" version="22.1.17" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-18T06:31:33.081Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="5JenSUYYkb9-KPgp9mAQ" version="22.1.17" type="github" pages="2">
   <diagram id="rmecvicJ1WGdIbWjcZAJ" name="Page-1">
     <mxGraphModel dx="2234" dy="1135" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4568,7 +4568,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ftjpefIzQ5QuRIg6qnRT-1" value="读取全量特征" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="ftjpefIzQ5QuRIg6qnRT-1" value="采样部分用户&lt;br&gt;读取全量特征" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="5053.629999999999" y="5360.129999999999" width="95.13" height="37" as="geometry" />
         </mxCell>
         <mxCell id="ftjpefIzQ5QuRIg6qnRT-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ftjpefIzQ5QuRIg6qnRT-3" target="ftjpefIzQ5QuRIg6qnRT-9">
